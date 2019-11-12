@@ -1,5 +1,5 @@
 # Dots and Boxes
-A server-side implementation -built with firebase cloud functions- for the popular game Dots and Boxes
+A server-side implementation -built with firebase cloud functions- for the popular game [Dots and Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes)
 
 ## TODO
 ### Enhancements
