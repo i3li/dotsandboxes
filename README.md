@@ -3,11 +3,11 @@ A server-side implementation -built with firebase cloud functions- for the popul
 
 ## TODO
 ### Enhancements
-- [] Add more details in the design section of the README.md file
+- [ ] Add more details in the design section of the README.md file
 
 ### New Features
-- [] Implement the remaning commands (claimTimeout, quit)
-- [] Implement a scoring system
+- [ ] Implement the remaning commands (claimTimeout, quit)
+- [ ] Implement a scoring system
 
 ## Design
 The design is inspired by this [talk](https://www.youtube.com/watch?v=eWj6dxfN63g) by [Doug Stevenson](https://github.com/CodingDoug)
