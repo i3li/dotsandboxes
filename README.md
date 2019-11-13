@@ -4,6 +4,7 @@ A server-side implementation -built with firebase cloud functions- for the popul
 ## TODO
 ### Enhancements
 - [ ] Add more details in the design section of the README.md file
+- [ ] Avoid nested promises for better code clarity and readability. See this [article](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513)
 
 ### New Features
 - [ ] Implement the remaning commands (claimTimeout, quit)
